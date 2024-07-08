@@ -1,19 +1,44 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous sporting events.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which event is known as the Super Bowl?",
+      "answers": ["NFL", "NBA", "MLB"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Where are the Summer Olympics held?",
+      "answers": ["Various", "Paris", "Rome"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What event is known as the World Series?",
+      "answers": ["MLB", "NFL", "NBA"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which race is known as the Indy 500?",
+      "answers": ["Indy", "NASCAR", "F1"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which event is held in Wimbledon?",
+      "answers": ["Tennis", "Golf", "Soccer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What event is called the Tour de France?",
+      "answers": ["Cycling", "Running", "Skiing"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which event is known as the World Cup?",
+      "answers": ["Soccer", "Rugby", "Cricket"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which event is called the Masters?",
+      "answers": ["Golf", "Tennis", "Soccer"],
       "correctAnswerIndex": 0
     }
   ]
